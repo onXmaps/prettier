@@ -1,0 +1,13 @@
+{
+  "name": "@on-x/prettier",
+  "version": "1.0.0",
+  "description": "Common Prettier configuration at onX",
+  "main": "index.json",
+  "repository": "https://github.com/onXmaps/prettier",
+  "author": "onXMaps",
+  "license": "MIT",
+  "homepage": "https://onxmaps.com",
+  "peerDependencies": {
+    "prettier": "3.x"
+  }
+}
