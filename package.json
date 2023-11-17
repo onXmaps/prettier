@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Common Prettier configuration at onX",
   "main": "index.json",
-  "repository": "https://github.com/onXmaps/prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onXmaps/prettier.git"
+  },
   "author": "onXMaps",
   "license": "MIT",
   "homepage": "https://onxmaps.com",
