@@ -12,5 +12,10 @@
   "homepage": "https://onxmaps.com",
   "peerDependencies": {
     "prettier": "3.x"
-  }
+  },
+  "files": [
+    "README.md",
+    "index.json",
+    "package.json"
+  ]
 }
